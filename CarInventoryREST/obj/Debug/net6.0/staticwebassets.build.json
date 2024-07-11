@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qGydf0+WLHszpOR5AId2WD7+ElPlVPsztj0jVK8ezw0=",
+  "Source": "CarInventoryREST",
+  "BasePath": "_content/CarInventoryREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
