@@ -66,3 +66,4 @@ C:\Users\PC\CarInventoryREST\CarInventoryREST\obj\Debug\net6.0\refint\CarInvento
 C:\Users\PC\CarInventoryREST\CarInventoryREST\obj\Debug\net6.0\CarInventoryREST.pdb
 C:\Users\PC\CarInventoryREST\CarInventoryREST\obj\Debug\net6.0\CarInventoryREST.genruntimeconfig.cache
 C:\Users\PC\CarInventoryREST\CarInventoryREST\obj\Debug\net6.0\ref\CarInventoryREST.dll
+C:\Users\PC\CarInventoryREST\CarInventoryREST\obj\Debug\net6.0\CarInventoryREST.sourcelink.json

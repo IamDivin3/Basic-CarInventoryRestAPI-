@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarInventoryREST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f078b1f021cac63748c3ec2fa74dfd8e5f532f58")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarInventoryREST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarInventoryREST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
